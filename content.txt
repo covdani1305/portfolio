@@ -1,0 +1,20 @@
+/ SECTION-INTRO//////////////////////////////
+
+name: Covaci Daniel, Junior Front-End Developer 
+
+Passionate self-taught web developer with experience in HTML, CSS, and JavaScript. Learned the basics through online tutorials and enhanced my skills by building simple projects such as personal websites, simple games, and to-do list applications. Continuously seeking opportunities to expand my knowledge and improve my coding abilities.
+
+/ SECTION-SKILLS//////////////////////////////
+HTML
+CSS
+JAVASCRIPT
+/ SECTION-PROJECTS//////////////////////////////
+Guess My Number : https://javascript-guess-my-number-game.netlify.app/
+Omnifood : https://omnifood-kovacs.netlify.app/
+Pig Game : https://javascript-pig-game-game.netlify.app/
+To Do App : https://to-do-app-kov.netlify.app/
+/ SECTION-CONTACTS//////////////////////////////
+instagram
+facebook
++373 79916988
+covdani1305@gmail.com

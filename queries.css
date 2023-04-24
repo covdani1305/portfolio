@@ -1,0 +1,86 @@
+/* 1200 */
+@media (max-width: 75em) {
+  body {
+    max-width: 100rem;
+  }
+  .section-intro {
+    max-width: 100rem;
+  }
+  .container {
+    max-width: 90rem;
+  }
+  .education-name-box {
+    margin-right: 3rem;
+  }
+}
+/* 1000 */
+@media (max-width: 62.5em) {
+  body {
+    max-width: 90rem;
+  }
+  .projects-box {
+    column-gap: 2.5rem;
+    row-gap: 2.5rem;
+  }
+  .project-img {
+    height: 15rem;
+  }
+  .education-name-box {
+    margin-right: 5rem;
+  }
+  .name {
+    font-size: 2.4rem;
+  }
+  .position {
+    font-size: 2rem;
+  }
+  .education-details {
+    font-size: 1.6rem;
+  }
+}
+/* 800 */
+@media (max-width: 50em) {
+  .container {
+    max-width: 80rem;
+  }
+  .grid-2-cols {
+    grid-template-columns: 1fr;
+  }
+
+  .education-name-box {
+    text-align: center;
+    align-items: center;
+    margin: auto 4rem;
+  }
+  .skills-imgs {
+    gap: 6rem;
+  }
+
+  .projects-box {
+    grid-template-columns: 1fr;
+    row-gap: 3rem;
+  }
+  .project-img {
+    height: 20rem;
+  }
+  .contacts-box {
+    grid-template-columns: 1fr 1fr;
+    row-gap: 4rem;
+  }
+}
+/* 500 */
+@media (max-width: 31em) {
+  .skills-imgs {
+    gap: 3rem;
+  }
+
+  .skills-img {
+    height: 7rem;
+  }
+  .project-img {
+    height: 13rem;
+  }
+  .contacts-box {
+    grid-template-columns: 1fr;
+  }
+}
